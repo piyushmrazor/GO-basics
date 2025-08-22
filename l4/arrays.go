@@ -15,5 +15,9 @@ func main() {
 
   fmt.Println(arr3)
   fmt.Println(arr4)
+  
+  var cars = [4]string{"Volvo", "BMW", "Ford", "Mazda"}
+  	fmt.Println(cars)
+
 }
 
