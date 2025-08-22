@@ -17,4 +17,16 @@ func main() {
   var y uint = 4500
   fmt.Printf("Type: %T, value: %v", x, x)
   fmt.Printf("Type: %T, value: %v", y, y)
+
+
+
+//   example
+  prices := [3]int{10,20,30}
+
+  fmt.Println(prices[0])
+  fmt.Println(prices[2])
+
+
+  
+
 }
